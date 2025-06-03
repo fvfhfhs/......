@@ -1,0 +1,154 @@
+{
+    "cars": [
+        {
+            "name": "Asterope",
+            "price": 7000,
+            "rode": true,
+            "image": "https://i.imgur.com/nAdU7xL.png"
+        },
+        {
+            "name": "Brioso",
+            "price": 5000,
+            "rode": true,
+            "image": "https://i.imgur.com/72LRBzW.png"
+        },
+        {
+            "name": "Issi Classic",
+            "price": 5000,
+            "rode": true,
+            "image": "https://i.imgur.com/CZE8zyH.png"
+        },
+        {
+            "name": "Weevil",
+            "price": 7500,
+            "rode": true,
+            "image": "https://i.imgur.com/j2MCVJy.png"
+        },
+        {
+            "name": "Rhapsody",
+            "price": 8000,
+            "rode": true,
+            "image": "https://i.imgur.com/RlkbH1E.png"
+        },
+        {
+            "name": "BD Club",
+            "price": 5000,
+            "rode": true,
+            "image": "https://i.imgur.com/IAw3yCC.png"
+        },
+        {
+            "name": "Asobo",
+            "price": 10000,
+            "rode": true,
+            "image": "https://i.imgur.com/1fT2vae.png"
+        },
+        {
+            "name": "Asea",
+            "price": 11000,
+            "rode": true,
+            "image": "https://i.imgur.com/5WVhyQd.png"
+        },
+        {
+            "name": "Blista Kanjo",
+            "price": 15000,
+            "rode": true,
+            "image": "https://i.imgur.com/DsC2fwn.png"
+        },
+        {
+            "name": "Surfer",
+            "price": 10000,
+            "rode": true,
+            "image": "https://i.imgur.com/s1rbd2z.png"
+        },
+        {
+            "name": "Washington",
+            "price": 12000,
+            "rode": true,
+            "image": "https://i.imgur.com/dSikDOI.png"
+        },
+        {
+            "name": "Schafter",
+            "price": 19000,
+            "rode": true,
+            "image": "https://i.imgur.com/3ii66xH.png"
+        },
+        {
+            "name": "Warrener",
+            "price": 17000,
+            "rode": true,
+            "image": "https://i.imgur.com/mt7wUh8.png"
+        },
+        {
+            "name": "Asterope GZ",
+            "price": 20000,
+            "rode": true,
+            "image": "https://i.imgur.com/P8E47iC.png"
+        },
+        {
+            "name": "Impaler SZ",
+            "price": 15000,
+            "rode": true,
+            "image": "https://i.imgur.com/hdZyJdZ.png"
+        },
+        {
+            "name": "Bisan",
+            "price": 16000,
+            "rode": false,
+            "image": "https://i.imgur.com/pdIBVMh.png"
+        },
+        {
+            "name": "Bobcat XL",
+            "price": 25000,
+            "rode": false,
+            "image": "https://i.imgur.com/7AQQE7d.png"
+        },
+        {
+            "name": "Chevrolet Silverado 1500",
+            "price": 30000,
+            "rode": false,
+            "image": "https://i.imgur.com/oyakzhb.png"
+        },
+        {
+            "name": "Burrito",
+            "price": 15000,
+            "rode": true,
+            "image": "https://i.imgur.com/5wRJYOl.png"
+        },
+        {
+            "name": "Gang Burrito",
+            "price": 20000,
+            "rode": true,
+            "image": "https://i.imgur.com/4C7ZtfB.png"
+        },
+        {
+            "name": "Pegassi Toros",
+            "price": 250000,
+            "rode": false,
+            "image": "https://i.imgur.com/zBXxFFQ.png"
+        },
+        {
+            "name": "Vapid Dominator ASP",
+            "price": 200000,
+            "rode": true,
+            "image": "https://i.imgur.com/fpFhkKy.png"
+        },
+        {
+            "name": "Ocelot Jugular",
+            "price": 185000,
+            "rode": true,
+            "image": "https://i.imgur.com/B8nb05S.png"
+        },
+        {
+            "name": "Dinka Jester RR",
+            "price": 190000,
+            "rode": true,
+            "image": "https://i.imgur.com/LDRCvS4.png"
+        },
+        {
+            "name": "ReblaGTS",
+            "price": 220000,
+            "rode": false,
+            "image": "https://i.imgur.com/Jky0Rf8.png"
+        }
+    ]
+}

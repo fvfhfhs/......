@@ -1,0 +1,86 @@
+{
+    "1": [
+        {
+            "name": "Vintage Pistol",
+            "Aluminium": 200,
+            "Iron": 120,
+            "Gunpowder": 190,
+            "Plastic": 190,
+            "emoji": "<:Vintge:1278144750746075206>",
+            "image": "https://i.imgur.com/3abRbrg.png"
+        }
+    ],
+    "2": [
+        {
+            "name": "SNS Pistol",
+            "Aluminium": 270,
+            "Iron": 250,
+            "Gunpowder": 220,
+            "Plastic": 220,
+            "emoji": "<:Gun_MN:1278144387880063069>",
+            "image": "https://i.imgur.com/WFCwldj.png"
+        }
+    ],
+    "3": [
+        {
+            "name": "Pistol",
+            "Aluminium": 340,
+            "Iron": 320,
+            "Gunpowder": 300,
+            "Plastic": 300,
+            "emoji": "<:Gun_MN:1278144393722724454>",
+            "image": "https://i.imgur.com/wWC7mJA.png"
+        }      
+    ],
+    "4": [
+        {
+            "name": "Combat Pistol",
+            "Aluminium": 410,
+            "Iron": 390,
+            "Gunpowder": 370,
+            "Plastic": 370,
+            "emoji": "<:Gun_MN:1278144391223050312>",
+            "image": "https://i.imgur.com/lNOIgDD.png" 
+        },
+        {
+            "name": "Heavy Pistol",
+            "Aluminium": 480,
+            "Iron": 460,
+            "Gunpowder": 440,
+            "Plastic": 440,
+            "emoji": "<:Gun_MN:1278144392527478805>",
+            "image": "https://i.imgur.com/s991BcD.png"
+        }
+    ],
+    "5": [
+        {
+            "name": "Pistol.mk2",
+            "Aluminium": 550,
+            "Iron": 530,
+            "Gunpowder": 510,
+            "Plastic": 510,
+            "emoji": "<:Gun_MN:1278144389079629916>",
+            "image": "https://i.imgur.com/6bXyH3J.png" 
+        },
+        {
+            "name": "Pistol.50",
+            "Aluminium": 590,
+            "Iron": 570,
+            "Gunpowder": 550,
+            "Plastic": 550,
+            "emoji": "<:Gun_MN:1278144390174347438>",
+            "image": "https://i.imgur.com/kKM9V8D.png"
+        }
+    ],
+  "6": [
+{
+            "name": "M16",
+            "Aluminium": 0,
+            "Iron": 0,
+            "Gunpowder": 0,
+            "Plastic": 0,
+            "emoji": "<:Gun_ST:1274720277489516555>",
+            "image": "https://media.discordapp.net/attachments/1279256990501306470/1313521989041913947/IMG_5517.png?ex=6750702e&is=674f1eae&hm=98b1eaea9ae9a51e82c3614488ae401b8cffc5c2b61ddb6b55b79b7473bc36d5&"
+        }
+      ]
+}
